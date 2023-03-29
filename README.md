@@ -1,5 +1,11 @@
 # Customer_Shopping_Dataset-_Retail_Sales_Data
-Machine Learning Models (LR/DTree)
+
+**!Download [Data]('github.com/Elma-dev/Customer_Shopping_Dataset-_Retail_Sales_Data/blob/main/customer_shopping_data.csv')**
+
+Machine Learning Models (LR/DTree) 
+1. Analyse Data
+
+2. Predict Price
 
 # About Dataset
 * **Context**
